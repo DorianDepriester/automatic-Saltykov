@@ -22,7 +22,7 @@ unfolded histogram:
     
 Look at the documentation for further details about the input and output options:
 
-    help autoSaltykov(R)
+    help autoSaltykov
     
 ## Cite this work
 When using the present functions in your research papers, please cite reference [[3]](#3). Alternatively, use the following BibTeX 
